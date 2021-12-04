@@ -1,11 +1,11 @@
 # Game-Description-Override
-Переопределение описание 'Игра'
-- Данный плагин написана для Counter-Strike: Source v34
+- Поддерживаемые игры: Counter-Strike: Source v34
+Описание: Переопределяет описание "Игра" в браузере сервера с помощью [SdkHooks]
 
 - Установка:
-1. Указать на 15 строке "желаемый текст"
-2. Скомпилировать плагин
-3. Поместить game_description_override.sp по пути /addons/sourcemod/scripting
+1. Поместить game_description_override.sp по пути /addons/sourcemod/scripting 
+2. Указать на 15 строке "желаемый текст"
+3. Скомпилировать плагин
 4. Поместить game_description_override.smx по пути /addons/sourcemod/plugins
 5. Перезапустить сервер.
 
