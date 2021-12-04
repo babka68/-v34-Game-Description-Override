@@ -1,6 +1,6 @@
 # Game-Description-Override
 - Поддерживаемые игры: Counter-Strike: Source v34
-Описание: Переопределяет описание "Игра" в браузере сервера с помощью [SdkHooks]
+- Описание: Переопределяет описание "Игра" в браузере сервера с помощью [SdkHooks]
 
 - Установка:
 1. Поместить game_description_override.sp по пути /addons/sourcemod/scripting 
