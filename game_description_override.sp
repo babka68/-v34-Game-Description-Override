@@ -50,7 +50,7 @@ public Action OnGetGameDescription(char gameDesc[64])
 		
 		else
 		{
-			PrintToServer("[v34] Game Description Override Описание игры установлено на %s", g_sGame_Description_Override);
+			//PrintToServer("[v34] Game Description Override Описание игры установлено на %s", g_sGame_Description_Override);
 			strcopy(gameDesc, sizeof(gameDesc), g_sGame_Description_Override);
 		}
 	}
