@@ -1,6 +1,7 @@
 # [v34] Game-Description-Override
 - Поддерживаемые игры: Counter-Strike: Source v34
 - Описание: Переопределяет описание "Игра" в браузере сервера с помощью [SdkHooks]
+![Безымянный](https://user-images.githubusercontent.com/30433617/224513288-0d3c0320-0614-4485-b028-c077f78d743e.png)
 
 ```cp
 - Установка:
