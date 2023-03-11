@@ -10,7 +10,20 @@
 4. Настроить файл конфигурации по пути cfg/sourcemod/game_description_override.cfg
 5. Перезапустить сервер
 ```
+- Файл конфигурации game_description_override.cfg
+```cpp
+// Установить описание игры при загрузке сервера (максимум 64 символа)
+// -
+// Default: "https://vk.com/zakazserver68"
+sm_game_description_override "https://vk.com/zakazserver68"
 
+// Включить плагин? [1 - Включить, 0 - Нет]
+// -
+// Default: "1"
+// Minimum: "0.000000"
+// Maximum: "1.000000"
+sm_game_description_override_enable "1"
+```
 - Контакты для связи при возникновении проблемы/предложений:
 
 1. Discord babka68#4072
